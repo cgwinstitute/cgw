@@ -1,21 +1,20 @@
 # Chartered Grant Writer Program
 
-Welcome to the self-paced version the Chartered Grant Writer Program hosted by License Academy. The track is organized in four modules, which culminates in a high-win-probability proposal. Please follow the process below to complete the award-ready application. 
+Welcome to the self-paced version of the Chartered Grant Writer Program hosted by License Academy. This track is organized in DIY modules, which culminates in a high-win-probability proposal. Please follow the guidance below to complete an award-ready application. 
 
-![Track overview](overview.png?raw=true "Track overview")
-_The image above is a visual representation of the timeline for each hackathon event._
+![Track Overview](overview.png?raw=true "Track Overview")
+_The illustration is a visual guide of the proposal development process._
 
-To participate, you need to…
-1. [Register](https://forms.gle/n2HboKh9jCtWW2tc6) for this hackathon you'd like to participate in. During registration, you will be asked to submit an initial project idea that you would be interested in working on during the hackathon. All ideas will be made available for discussion in a dedicated Slack channel. You will receive an invite to that channel as part of an onboarding email after registering.
-2. Attend the ideation and mixer event. The event allows participants to present and discuss their ideas. It also provides the opportunity to form teams for the upcoming hackathon.
-3. Attend the team curation event. During this event, teams will pitch their ideas and plans for the hackathon. The best ideas will be invited to the hackathon to realize their vision. The decision criteria will be announced before the event.
-4. Work on your project during the hackathon.
-5. Present your project during the hackathon demo session. The best project will receive funding from the Block Center to continue working on it.
-To register for a hackathon and for an overview of the events schedules, please select the respective track below.
+To participate, please:
+1. [Sign-up](https://forms.gle/n2HboKh9jCtWW2tc6) to access our Discord channel.
+2. Introduce yourself. The community is dedicated to business development, innovation, and fundraising, among other themes of interest.
+3. Accept the T&C for community conduct. Discrimination or harassment of community members will result in dusciplinary action, including a ban. 
+4. Complete the modules and tender your award application.
+5. Share award wins, to inspire fellows, and provide suggestions for program innovation. We want to make the no-cost version available to all aspiring entrepreneurs worldwide.
 
-For any questions or more information please contact the event organizers via [email](mailto:llmhackathon2023@cs.cmu.edu) or in Slack.
+For any questions or more information please contact us via [email](mailto:info@license.academy) or in Discord.
 
-### This website will be updated as new information becomes available.
+### This resource is current.
 
 ---
 
