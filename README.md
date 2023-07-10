@@ -23,13 +23,13 @@ For any questions or more information please contact us via [email](mailto:info@
 * Ensure the award proposal is technically complete 
 * It's not about being the best, but rather about helping the award make progress
 * This is a rapid skilling program, designed to help you win, by following a highly-effective process flow
-
+* Expected draft completion is under twenty-four hours
 
 ## DIY CGW Program Modules:
 * Module I - Review & Organize
 * Module II - Research & Decide 
 * Module III - Design Application
-* Module IV - Assemble Proposal
+* Module IV - Craft Proposal
 
 ---
 
